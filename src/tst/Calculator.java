@@ -1,7 +1,7 @@
 package tst;
 
 public class Calculator {
-	static double t = 0;
+	static double t = 0;//
 	static Vector W1, W2, ViewVector, RotationVector, DirectionVector, PlaneVector1, PlaneVector2;
 	static Plane P;
 	static double[] CalcFocusPos = new double[2];
